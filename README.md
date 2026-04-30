@@ -76,6 +76,10 @@ cost structure breakdown, revenue by market
 | Labour / Revenue | 6.9% | 5.7% | +1.2pp |
 | Warehouse / Revenue | 9.6% | 8.4% | +1.2pp |
 
+ ![Image Alt](https://github.com/ajdammm/NordRetail---H1-2025-Financial-Performance-Review/blob/main/Monthly_PL.png?raw=true)
+ ![Image Alt](https://github.com/ajdammm/NordRetail---H1-2025-Financial-Performance-Review/blob/main/Trends.png?raw=true)
+ ![Image Alt](https://github.com/ajdammm/NordRetail---H1-2025-Financial-Performance-Review/blob/main/Charts.png?raw=true)
+
 ---
 
 ## Author
